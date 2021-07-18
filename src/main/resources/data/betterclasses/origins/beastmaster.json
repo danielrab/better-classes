@@ -1,0 +1,10 @@
+{
+  "name": "Beast Master",
+  "description": "You can form a special bond with your pets, which empowers them.",
+  "powers": [
+    "betterclasses:starting_kits/beastmaster"
+  ],
+  "icon": "minecraft:iron_sword",
+  "order": 1,
+  "impact": 0
+}

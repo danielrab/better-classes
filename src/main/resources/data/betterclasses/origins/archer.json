@@ -1,0 +1,14 @@
+{
+  "name": "Archer",
+  "description": "You have focused your training on using ranged weapons, like the bow and the crossbow, completely neglecting training with the sword",
+  "icon": "minecraft:bow",
+  "order": 2,
+  "impact": 2,
+  "powers": [
+    "betterclasses:starting_kits/archer",
+    "betterclasses:advantages/archer/accurate_shooting",
+    "betterclasses:advantages/archer/less_bow_slowdown",
+    "betterclasses:advantages/archer/shooting_damage",
+    "betterclasses:disadvantages/archer/lower_melee_damage"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Archer's starting kit",
+  "description": "You start with a bow and 20 arrows.",
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "minecraft:arrow",
+      "amount": 20
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "order": 99,
+  "name": "class",
+  "origins": [
+    "betterclasses:archer",
+    "betterclasses:beastmaster"
+  ]
+}

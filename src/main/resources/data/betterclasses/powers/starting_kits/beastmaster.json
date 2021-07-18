@@ -1,0 +1,14 @@
+{
+  "name": "Beast Master's starting kit",
+  "description": "You start with a wolf spawning egg and a few bones.",
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:wolf_spawn_egg"
+    },
+    {
+      "item": "minecraft:bone",
+      "amount": 10
+    }
+  ]
+}
