@@ -2,7 +2,11 @@
   "name": "Beast Master",
   "description": "You can form a special bond with your pets, which empowers them.",
   "powers": [
-    "betterclasses:starting_kits/beastmaster"
+    "betterclasses:starting_kits/beastmaster",
+    "betterclasses:advantages/beastmaster/better_pets",
+    "betterclasses:advantages/beastmaster/faster_horses",
+    "betterclasses:advantages/beastmaster/potions_to_pets",
+    "betterclasses:disadvantages/beastmaster/weak_without_pets"
   ],
   "icon": "minecraft:iron_sword",
   "order": 1,
